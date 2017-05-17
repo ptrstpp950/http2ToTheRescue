@@ -1,20 +1,50 @@
 [
     "index.md",
     [
-        "history/1.http-history.html",
-        "history/2.demo.html",
-        "history/3.spdy.html",
-        "history/4.spdy-die.html",
-        "history/5.spdy-die-2.html"
+        "01.history/1.http-history.html",
+        "01.history/2.demo.html",
+        "01.history/3.spdy.html",
+        "01.history/4.spdy-die.html",
+        "01.history/5.spdy-die-2.html"
     ],
     [
-        "http2theory/0.intro.html",
-        "http2theory/1.ishttp2ready.html",
-        "http2theory/2.caniusehttp2.html",
-        "http2theory/3.righthere.html",
-        "http2theory/4.latency.html",
-        "http2theory/5.definition.html",
-        "http2theory/6.definition.1.html"
+        "02.http2theory/0.intro.html",
+        "02.http2theory/1.http_what.html",
+        "02.http2theory/2.http_1.html",
+        "02.http2theory/3.http_2.html",
+        "02.http2theory/4.ishttp2ready.html",
+        "02.http2theory/5.caniusehttp2.html",
+        "02.http2theory/6.righthere.html",
+        "02.http2theory/7.latency.html"
     ],
-    []
+    [
+       "03.perf-rules/00.intro.html",
+       "03.perf-rules/01.all-rules.html",
+       "03.perf-rules/02.all-rules.crossed.html",
+       "03.perf-rules/04.gzip-hpack.1.html",
+       "03.perf-rules/04.gzip-hpack.2.html",
+       "03.perf-rules/04.gzip-hpack.3.html",
+       "03.perf-rules/04.gzip-hpack.4.html",
+       "03.perf-rules/04.gzip-hpack.5.html",
+       "03.perf-rules/09.dnslookups.html",
+       "03.perf-rules/xx.08.external.1.html",
+       "03.perf-rules/xx.08.external.2.html",
+       "03.perf-rules/xx.08.external.3.html",
+       "03.perf-rules/xx.08.external.4.html",
+       "03.perf-rules/xx.08.external.5.html",
+       "03.perf-rules/xx.10.reuse-tcp.html"
+    ],
+    [
+        "04.other-optimization/00.intro.html",
+        "04.other-optimization/01.html.html",
+        "04.other-optimization/02.finai-desktop.html",
+        "04.other-optimization/03.finai-mobile.html",
+        "04.other-optimization/04.srcset.html",
+        "04.other-optimization/05.webp.html",
+        "04.other-optimization/06.flif.html"
+    ],
+    [
+        "05.the-end/01.final-sumup.html",
+        "05.the-end/02.end.html"
+    ]
 ]
