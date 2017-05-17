@@ -7,3 +7,5 @@ by Piotr Stapp
         <li>Twitter: <a href="https://twitter.com/ptrstpp950">@ptrstpp950</a></li>
         <li>Facebook: <a href="https://twitter.com/ptrstpp950">https://www.facebook.com/stapp.space</a></li>
 </ul>
+
+<img src="resources/img/MVPLogo.png" />

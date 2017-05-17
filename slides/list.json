@@ -2,7 +2,6 @@
     "index.md",
     [
         "01.history/1.http-history.html",
-        "01.history/2.demo.html",
         "01.history/3.spdy.html",
         "01.history/4.spdy-die.html",
         "01.history/5.spdy-die-2.html"
@@ -26,7 +25,6 @@
        "03.perf-rules/04.gzip-hpack.3.html",
        "03.perf-rules/04.gzip-hpack.4.html",
        "03.perf-rules/04.gzip-hpack.5.html",
-       "03.perf-rules/09.dnslookups.html",
        "03.perf-rules/xx.08.external.1.html",
        "03.perf-rules/xx.08.external.2.html",
        "03.perf-rules/xx.08.external.3.html",
